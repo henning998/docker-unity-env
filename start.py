@@ -1,3 +1,3 @@
 import os
 
-os.system("python balltraining.py")
+os.system("python -u balltraining.py")
