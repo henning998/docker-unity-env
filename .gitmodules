@@ -1,0 +1,3 @@
+[submodule "2DJumperBuild"]
+	path = 2DJumperBuild
+	url = https://github.com/UlrichFarhadi/2DJumperBuild.git
