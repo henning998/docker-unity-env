@@ -4,3 +4,4 @@ mlagents==0.28.0
 mlagents_envs==0.28.0
 numpy==1.23.3
 torch
+protobuf==3.20.*
